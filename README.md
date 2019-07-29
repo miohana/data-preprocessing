@@ -14,7 +14,7 @@ In this project I used Python, in version 3.6.8.
 
 ## The content
 
-We are using the content extract from [this book](alex.smola.org/drafts/thebook.pdf), written by Alex Smola, about Machine Learning (great stuff, btw).
+We are using the content extract from [this book](https://alex.smola.org/drafts/thebook.pdf), written by Alex Smola, about Machine Learning (great stuff, btw).
 
 ## About the techniques used
 
