@@ -1,2 +1,30 @@
-# data-preprocessing
-Example of data preprocessing.
+# Example of Data Preprocessing
+
+We all produce a lot of data. All the time.
+
+We need to treat all that data to make it useful and extract high-quality from the text, that can be use for predictions and natrual language processing.
+
+The main objective here is to give a short information about some tools that data scientist have been using to data mining.
+
+It's important to always focus on the business and see what are the tools that most fit with it.
+
+## The content
+
+We are using the content extract from [this book](alex.smola.org/drafts/thebook.pdf), written by Alex Smola, about Machine Learning (great stuff, btw).
+
+## About the techniques used
+
+The techniques that we are going to use are:
+
+1-Case alignment
+
+2-Tokenization
+
+3-Stopwords removal
+
+4-Stemming
+
+5-Lemmatization
+<br><br>
+
+You can see more information in the notebook, the <code>data-preprocessing.ipynb</code> archive.
