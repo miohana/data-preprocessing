@@ -2,7 +2,7 @@
 
 We all produce a lot of data. All the time.
 
-We need to treat all that data to make it useful and extract high-quality from the text, that can be use for predictions and natrual language processing.
+We need to treat all that data in order to make it useful and extract high-quality information from the text, that can be used for predictions and natural language processing.
 
 The main objective here is to give a short information about some tools that data scientist have been using to data mining.
 
