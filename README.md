@@ -1,4 +1,4 @@
-# Example of Data Preprocessing
+# Example of Data Preprocessing using Python
 
 We all produce a lot of data. All the time.
 
@@ -11,6 +11,10 @@ It's important to always focus on the business and see what are the tools that m
 ## The content
 
 We are using the content extract from [this book](alex.smola.org/drafts/thebook.pdf), written by Alex Smola, about Machine Learning (great stuff, btw).
+
+## The language
+
+In this project I used Python, in version 3.6.8.
 
 ## About the techniques used
 
