@@ -8,13 +8,13 @@ The main objective here is to give a short information about some tools that dat
 
 It's important to always focus on the business and see what are the tools that most fit with it.
 
-## The content
-
-We are using the content extract from [this book](alex.smola.org/drafts/thebook.pdf), written by Alex Smola, about Machine Learning (great stuff, btw).
-
 ## The language
 
 In this project I used Python, in version 3.6.8.
+
+## The content
+
+We are using the content extract from [this book](alex.smola.org/drafts/thebook.pdf), written by Alex Smola, about Machine Learning (great stuff, btw).
 
 ## About the techniques used
 
