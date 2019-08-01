@@ -31,4 +31,6 @@ The techniques that we are going to use are:
 5-Lemmatization
 <br><br>
 
-You can see more information in the notebook, the <code>data-preprocessing.ipynb</code> archive.
+You can see more information in the notebook, the <code>data-preprocessing.ipynb</code> archive, and the presentation that guides the content, the <code>DataPreProcessing.pdf</code>.
+
+Enjoy! :purple_heart:
