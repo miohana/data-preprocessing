@@ -1,4 +1,4 @@
-# Example of Data Preprocessing using Python
+# Example of Data Preprocessing using Python :snake:
 
 We all produce a lot of data. All the time.
 
